@@ -27,7 +27,6 @@
 
 <ul>
   <li><strong>Account Signup:</strong> Create new accounts by entering personal information.</li>
-  <li><strong>Account Information:</strong> Display account information, such as card number and PIN.</li>
   <li><strong>Transaction Variety:</strong> Enable various transactions, including deposit, withdrawal, fast cash, and balance inquiries.</li>
   <li><strong>Transaction History:</strong> Maintain a chronological record of user transactions for reference.</li>
   <li><strong>PIN Management:</strong> Facilitate PIN changes for enhanced security.</li>
