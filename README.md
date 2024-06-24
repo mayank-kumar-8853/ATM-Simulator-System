@@ -1,5 +1,3 @@
-![ATM-Program-in-Java](https://github.com/mayank-kumar-8853/ATM-SimulatorSystem.git)
-
 <html>
 <head>
   <meta charset="UTF-8">
@@ -28,13 +26,13 @@
 <h2>Key Features</h2>
 
 <ul>
-  <li><strong>Account Signup:</strong> Seamlessly create new accounts by inputting personal and contact information.</li>
-  <li><strong>Comprehensive Details:</strong> Capture additional account details, including religion, category, income, and education.</li>
-  <li><strong>Account Information:</strong> Display vital account information, such as type, card number, and PIN.</li>
+  <li><strong>Account Signup:</strong> Create new accounts by entering personal information.</li>
+  <li><strong>Comprehensive Details:</strong> Enter additional account details, including religion, category, income, and education.</li>
+  <li><strong>Account Information:</strong> Display account information, such as card number and PIN.</li>
   <li><strong>Transaction Variety:</strong> Enable various transactions, including deposit, withdrawal, fast cash, and balance inquiries.</li>
   <li><strong>Transaction History:</strong> Maintain a chronological record of user transactions for reference.</li>
   <li><strong>PIN Management:</strong> Facilitate PIN changes for enhanced security.</li>
-  <li><strong>Graceful Exit:</strong> Offer a clean exit option for users to leave the application.</li>
+  <li><strong>Exit:</strong> Offer an exit option for users to leave the application.</li>
 </ul>
 
 <h2>Getting Started</h2>
@@ -63,7 +61,7 @@
 <ol>
   <li>Launch the application by executing <code>login</code>.</li>
   <li>Follow the on-screen prompts to create a new account and provide necessary information.</li>
-  <li>Complete the account creation process by inputting additional details as prompted.</li>
+  <li>Complete the account creation process by entering additional details as prompted.</li>
   <li>Access various account-related functionalities, such as transactions and balance inquiries.</li>
 </ol>
 
