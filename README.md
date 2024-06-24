@@ -54,14 +54,5 @@
 
 <p>Please note that the actual commands may vary based on your operating system and environment.</p>
 
-<h2>Usage</h2>
-
-<ol>
-  <li>Launch the application by executing <code>login</code>.</li>
-  <li>Follow the on-screen prompts to create a new account and provide necessary information.</li>
-  <li>Complete the account creation process by entering additional details as prompted.</li>
-  <li>Access various account-related functionalities, such as transactions and balance inquiries.</li>
-</ol>
-
 </body>
 </html>
