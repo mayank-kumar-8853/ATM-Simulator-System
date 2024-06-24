@@ -15,8 +15,6 @@
   <li><a href="#introduction">Introduction</a></li>
   <li><a href="#key-features">Key Features</a></li>
   <li><a href="#getting-started">Getting Started</a></li>
-  <li><a href="#usage">Usage</a></li>
-  
 </ul>
 
 <h2>Introduction</h2>
